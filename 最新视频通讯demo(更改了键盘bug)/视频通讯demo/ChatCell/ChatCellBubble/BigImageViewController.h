@@ -1,0 +1,15 @@
+//
+//  BigImageViewController.h
+//  视频通讯demo
+//
+//  Created by ozx on 15/7/21.
+//  Copyright (c) 2015年 ozx. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface BigImageViewController : UIViewController
+
+@property (nonatomic,weak) UIImage * image;
+
+@end

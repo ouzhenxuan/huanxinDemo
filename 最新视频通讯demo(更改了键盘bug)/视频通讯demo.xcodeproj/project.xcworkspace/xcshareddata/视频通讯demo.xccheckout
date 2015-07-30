@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D45B86C5-619B-4F8C-A4AF-1CA269AC0582</string>
+	<key>IDESourceControlProjectName</key>
+	<string>视频通讯demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6917C94E20A908244A7A5B6F80860DAB1687717B</key>
+		<string>https://github.com/ouzhenxuan/shipinchat.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>最新视频通讯demo(更改了键盘bug)/视频通讯demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6917C94E20A908244A7A5B6F80860DAB1687717B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ouzhenxuan/shipinchat.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6917C94E20A908244A7A5B6F80860DAB1687717B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6917C94E20A908244A7A5B6F80860DAB1687717B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>shipinchat</string>
+		</dict>
+	</array>
+</dict>
+</plist>
